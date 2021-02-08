@@ -24,15 +24,14 @@ To set up your python environment to run the code in this repository, follow the
 2. Clone the repository (if you haven't already!), and navigate to the `python/` folder.  Then, install several dependencies.
 
     ```bash
-    git clone https://github.com/udacity/deep-reinforcement-learning.git
-    cd deep-reinforcement-learning/python
+    cd python
     pip install .
     ```
 
 3. On Anaconda
 
     ```bash
-    conda install pytorch=0.4.0 -c pytorch
+    conda install pytorch=1.7.0 -c pytorch
     ```
 
 4. Then create an [IPython kernel](http://ipython.readthedocs.io/en/stable/install/kernel_install.html) for the `drlnd` environment.
