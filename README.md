@@ -68,12 +68,6 @@ A reward of **+1** is provided for collecting a yellow banana, and a reward of *
 
 The task is episodic, and in order to solve the environment, your agent must get an average score of +13 over 100 consecutive episodes.
 
-### DQN Model Specifications
+### Report 
 
-The deep RL model used to train the agent is a Deep-Q-Network with experience replay.
-
-The Q-network is a fully connected ANN consisting of 2 hidden layers with 128 nodes each.
-
-The model parameters can be found in dqn_agent.py and the associated jupyter notebook.
-
-### Results
+A full description of the Deep RL model used can be found in the file report.pdf.
